@@ -20,7 +20,7 @@ function handleNeClick() {
             icon: "warning",
             background: "#ffdde1", // Color romántico
             confirmButtonColor: "#ff4d6d", // Color rosado fuerte
-            confirmButtonText: "Aceptar 💘",
+            confirmButtonText: "Regresar 💘",
             customClass: {
                 popup: "custom-popup"
             }
